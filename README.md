@@ -15,10 +15,9 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently building a **Developer Portfolio** with automated CI/CD & security scanning pipelines
-- ⚙️ Experienced with **GitOps workflows** (GitHub Actions, GHCR, Argo CD, Kubernetes/k3s) and **Self-Hosted** infrastructure
+- ⚙️ Experienced with **Full Stack dev, GitOps workflows** 
 - 💼 Former **Business Analyst Intern** at Beryl8 Plus (Smart Accounting & RPA projects)
-- 🏆 **4th Place** in Smart Retail AI Competition (Real-time CCTV analytics with YOLO)
+- 🏆 **Buildinge** Smart Retail AI Project for Competition (Real-time CCTV analytics with YOLO)
 - 🤝 Open to **Software Engineering / Full-Stack / DevOps Internship** opportunities
 
 ---
